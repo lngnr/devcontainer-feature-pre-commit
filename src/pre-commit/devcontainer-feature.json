@@ -1,0 +1,9 @@
+{
+    "name": "Install pre-commit", 
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/python:1": {}
+    },
+    "id": "pre-commit",
+    "version": "0.1.0",
+    "description": "Installs the pre-commit cli."
+}
