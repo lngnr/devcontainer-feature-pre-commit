@@ -7,7 +7,7 @@ Installs the pre-commit cli.
 
 ```json
 "features": {
-    "ghcr.io/lngnr/devcontainer-feature-pre-commit/pre-commit:0": {}
+    "ghcr.io/lngnr/devcontainer-feature-pre-commit/pre-commit:1": {}
 }
 ```
 
